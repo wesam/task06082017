@@ -1,6 +1,6 @@
 ## How To Use
 
-Note that the trip data file should be added to "data" folder named by "trip_data.json".
+Trip data file should be added to "data" folder and named by "trip_data.json".
 
 ```
 In this version the trip date should be in JSON format we will add extra formats later.
