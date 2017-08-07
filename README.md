@@ -1,7 +1,7 @@
 ## How To Use
 
-Note that the trip data file used for this application is located in "data" folder.
-Only Json format is supported for this example.
+Note that the trip data file should be added to "data" folder named by "trip_data.json". 
+In this version the trip date should be in JSON format we will add extra formats later.
 
 Please use the below tamplate to for each step in the trip, you don't need to fill them all.
 [
